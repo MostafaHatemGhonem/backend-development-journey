@@ -73,7 +73,7 @@ backend-development-journey/
 - [03 - Building Quality Software](./01-introduction-to-software-engineering/03-building-quality-software.md)
 - [04 - Requirement Gathering](./01-introduction-to-software-engineering/04-requirement-gathering.md)
 - [05 - Software Development Methodologies](./01-introduction-to-software-engineering/05-software-development-methodologies.md)
-- [06 - Software Versioning Basics](./01-introduction-to-software-engineering/06-software-versioning-basics.md) *(In Progress)*
+- [06 - Software Versioning Basics](./01-introduction-to-software-engineering/06-software-versioning-basics.md)
 
 ---
 

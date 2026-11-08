@@ -61,6 +61,7 @@ backend-development-journey/
 │   ├── 04-requirement-gathering.md
 │   ├── 05-software-development-methodologies.md
 │   ├── 06-software-versioning-basics.md
+│   ├── 07-software-testing.md
 │   └── README.md
 │
 ├── (02 to 11 course folders will be added as each course begins...)
@@ -74,6 +75,7 @@ backend-development-journey/
 - [04 - Requirement Gathering](./01-introduction-to-software-engineering/04-requirement-gathering.md)
 - [05 - Software Development Methodologies](./01-introduction-to-software-engineering/05-software-development-methodologies.md)
 - [06 - Software Versioning Basics](./01-introduction-to-software-engineering/06-software-versioning-basics.md)
+- [07 - Understanding Software Testing: Types and Levels](./01-introduction-to-software-engineering/07-software-testing.md)
 
 ---
 

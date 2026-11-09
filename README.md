@@ -78,7 +78,8 @@ backend-development-journey/
 - [05 - Software Development Methodologies](./01-introduction-to-software-engineering/05-software-development-methodologies.md)
 - [06 - Software Versioning Basics](./01-introduction-to-software-engineering/06-software-versioning-basics.md)
 - [07 - Understanding Software Testing: Types and Levels](./01-introduction-to-software-engineering/07-software-testing.md)
-- [08 - Understanding Software Project Management](./01-introduction-to-software-engineering/08-software-project-management.md)
+- [08 - Understanding Software Documentation](./01-introduction-to-software-engineering/08-software-documentation.md)
+- [09 - Software Roles](./01-introduction-to-software-engineering/09-software-roles.md)
 
 ---
 

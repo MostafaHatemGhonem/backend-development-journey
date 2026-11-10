@@ -10,10 +10,11 @@ This folder contains my study notes, deep-dive explanations, and practical break
 ## 📂 Modules Overview
 
 - [`01-module-the-software-development-lifecycle/`](./01-module-the-software-development-lifecycle/): Software engineering foundations, SDLC phases, methodologies, requirements gathering, versioning, software testing, documentation, and engineering team roles.
+- [`02-introduction to-software-engineering/`](./02-introduction%20to-software-engineering/): Web and cloud development fundamentals, frontend vs backend, client-server model, cloud architecture, and modern deployment models.
 
 ---
 
-## 📑 Module 01: The Software Development Lifecycle — Notes & Articles
+## 📑 Module 01: The Software Development Lifecycle
 
 | # | Topic | Note / Markdown File | Hashnode Article |
 | :-: | :--- | :--- | :--- |
@@ -26,6 +27,14 @@ This folder contains my study notes, deep-dive explanations, and practical break
 | **07** | Understanding Software Testing: Types and Levels | [07-software-testing.md](./01-module-the-software-development-lifecycle/07-software-testing.md) | [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/) |
 | **08** | Software Documentation | [08-software-documentation.md](./01-module-the-software-development-lifecycle/08-software-documentation.md) | [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/) |
 | **09** | Common Roles in Software Engineering Projects | [09-software-roles.md](./01-module-the-software-development-lifecycle/09-software-roles.md) | [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/) |
+
+---
+
+## 📑 Module 02: Introduction to Web and Cloud Development
+
+| # | Topic | Note / Markdown File | Hashnode Article |
+| :-: | :--- | :--- | :--- |
+| **01** | Overview of Web and Cloud Development: Understanding How the Web Works | [01-overview-of-web-and-cloud-development.md](./02-introduction%20to-software-engineering/01-overview-of-web-and-cloud-development.md) | [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/) |
 
 ---
 

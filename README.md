@@ -65,6 +65,8 @@ backend-development-journey/
 │   │   ├── 07-software-testing.md
 │   │   ├── 08-software-documentation.md
 │   │   └── 09-software-roles.md
+│   ├── 02-introduction to-software-engineering/
+│   │   └── 01-overview-of-web-and-cloud-development.md
 │   └── README.md
 │
 ├── (02 to 11 course folders will be added as each course begins...)
@@ -83,6 +85,9 @@ backend-development-journey/
 - [07 - Understanding Software Testing: Types and Levels](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/07-software-testing.md)
 - [08 - Software Documentation](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/08-software-documentation.md)
 - [09 - Common Roles in Software Engineering Projects: Who Does What?](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/09-software-roles.md)
+
+#### Module 02: Introduction to Web and Cloud Development
+- [01 - Overview of Web and Cloud Development: Understanding How the Web Works](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/01-overview-of-web-and-cloud-development.md)
 
 ---
 

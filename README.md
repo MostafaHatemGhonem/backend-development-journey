@@ -12,7 +12,7 @@ I believe the best way to truly master a technical concept is to **explain it in
 
 1. **Study & Practice:** Complete the lesson, hands-on labs, and exercises on Coursera.
 2. **Document on GitHub:** Write detailed, structured markdown notes and examples right here in [this repository](https://github.com/MostafaHatemGhonem/backend-development-journey/tree/main).
-3. **Publish on Hashnode:** Turn each lesson into a full technical blog post on my [Hashnode Blog](https://mostafa-hatem-backend.hashnode.dev/).
+3. **Publish on Hashnode:** Turn each lesson into a full technical blog post on my [Hashnode Blog](https://mostafa-hatem-backend.hashnode.dev/) and series [Introduction to Software Engineering](https://mostafa-hatem-backend.hashnode.dev/series/introduction-to-software-engineering).
 4. **Share on X (Twitter):** Post key takeaways, mental models, and summaries on my [X account](https://x.com/mostafa_hatem_x) to engage with the developer community and reinforce my understanding.
 
 ---
@@ -23,6 +23,7 @@ I believe the best way to truly master a technical concept is to **explain it in
 | :--- | :--- | :--- |
 | **GitHub Repository** | [backend-development-journey](https://github.com/MostafaHatemGhonem/backend-development-journey/tree/main) | Raw markdown notes, structured course folders, code snippets, and project files |
 | **Hashnode Blog** | [mostafa-hatem-backend.hashnode.dev](https://mostafa-hatem-backend.hashnode.dev/) | All published in-depth articles and lesson breakdowns |
+| **Hashnode Series** | [Introduction to Software Engineering](https://mostafa-hatem-backend.hashnode.dev/series/introduction-to-software-engineering) | Structured article series for Course 01 |
 | **Hashnode Profile** | [@mostafahatem](https://hashnode.com/@mostafahatem) | Author profile and blog series updates |
 | **X (Twitter)** | [@mostafa_hatem_x](https://x.com/mostafa_hatem_x) | Daily learning updates, quick insights, threads, and reflections |
 
@@ -66,7 +67,8 @@ backend-development-journey/
 │   │   ├── 08-software-documentation.md
 │   │   └── 09-software-roles.md
 │   ├── 02-introduction to-software-engineering/
-│   │   └── 01-overview-of-web-and-cloud-development.md
+│   │   ├── 01-overview-of-web-and-cloud-development.md
+│   │   └── learning-frontend-development.md
 │   └── README.md
 │
 ├── (02 to 11 course folders will be added as each course begins...)
@@ -76,18 +78,19 @@ backend-development-journey/
 ### Course 01: Introduction to Software Engineering — Modules & Lessons
 
 #### Module 01: The Software Development Lifecycle
-- [01 - What Is Software Engineering? Understanding the Foundations of Building Software](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/01-what-is-software-engineering.md)
-- [02 - Software Development Life Cycle (SDLC)](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/02-sdlc.md)
-- [03 - Building Quality Software](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/03-building-quality-software.md)
-- [04 - Requirement Gathering](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/04-requirement-gathering.md)
-- [05 - Software Development Methodologies](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/05-software-development-methodologies.md)
-- [06 - Software Versioning Basics](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/06-software-versioning-basics.md)
-- [07 - Understanding Software Testing: Types and Levels](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/07-software-testing.md)
-- [08 - Software Documentation](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/08-software-documentation.md)
+- [01 - What Is Software Engineering? Understanding the Foundations of Building Software](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/01-what-is-software-engineering.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/what-is-software-engineering-my-first-step-into-backend-development)
+- [02 - Software Development Life Cycle (SDLC)](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/02-sdlc.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/understanding-the-software-development-life-cycle-sdlc-a-beginner-friendly-guide)
+- [03 - Building Quality Software](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/03-building-quality-software.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/building-quality-software-what-makes-software-truly-good)
+- [04 - Requirement Gathering](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/04-requirement-gathering.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/requirement-gathering-in-sdlc-understanding-srs-urs-and-sysrs)
+- [05 - Software Development Methodologies](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/05-software-development-methodologies.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/software-development-methodologies-explained-waterfall-v-model-and-agile)
+- [06 - Software Versioning Basics](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/06-software-versioning-basics.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/software-versioning-basics-understanding-versions-semantic-versioning-and-compatibility)
+- [07 - Understanding Software Testing: Types and Levels](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/07-software-testing.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/understanding-software-testing-types-and-levels)
+- [08 - Software Documentation](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/08-software-documentation.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/software-documentation-why-every-software-project-needs-it)
 - [09 - Common Roles in Software Engineering Projects: Who Does What?](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/09-software-roles.md)
 
 #### Module 02: Introduction to Web and Cloud Development
-- [01 - Overview of Web and Cloud Development: Understanding How the Web Works](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/01-overview-of-web-and-cloud-development.md)
+- [01 - Overview of Web and Cloud Development: Understanding How the Web Works](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/01-overview-of-web-and-cloud-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/overview-of-web-and-cloud-development)
+- [02 - Learning Front-End Development: HTML, CSS, JavaScript, and Modern Frameworks](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/learning-frontend-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/learning-front-end-development-html-css-javascript-and-modern-frameworks)
 
 ---
 

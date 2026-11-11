@@ -19,13 +19,13 @@ I believe the best way to truly master a technical concept is to **explain it in
 
 ## 🌐 Follow My Journey & Connect
 
-| Platform              | Link                                                                                                                           | What I Share There                                                              |
-| :-------------------- | :----------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ |
-| **GitHub Repository** | [backend-development-journey](https://github.com/MostafaHatemGhonem/backend-development-journey/tree/main)                     | Raw markdown notes, structured course folders, code snippets, and project files |
-| **Hashnode Blog**     | [mostafa-hatem-backend.hashnode.dev](https://mostafa-hatem-backend.hashnode.dev/)                                              | All published in-depth articles and lesson breakdowns                           |
-| **Hashnode Series**   | [Introduction to Software Engineering](https://mostafa-hatem-backend.hashnode.dev/series/introduction-to-software-engineering) | Structured article series for Course 01                                         |
-| **Hashnode Profile**  | [@mostafahatem](https://hashnode.com/@mostafahatem)                                                                            | Author profile and blog series updates                                          |
-| **X (Twitter)**       | [@mostafa_hatem_x](https://x.com/mostafa_hatem_x)                                                                              | Daily learning updates, quick insights, threads, and reflections                |
+| Platform | Link | What I Share There |
+| :--- | :--- | :--- |
+| **GitHub Repository** | [backend-development-journey](https://github.com/MostafaHatemGhonem/backend-development-journey/tree/main) | Raw markdown notes, structured course folders, code snippets, and project files |
+| **Hashnode Blog** | [mostafa-hatem-backend.hashnode.dev](https://mostafa-hatem-backend.hashnode.dev/) | All published in-depth articles and lesson breakdowns |
+| **Hashnode Series** | [Introduction to Software Engineering](https://mostafa-hatem-backend.hashnode.dev/series/introduction-to-software-engineering) | Structured article series for Course 01 |
+| **Hashnode Profile** | [@mostafahatem](https://hashnode.com/@mostafahatem) | Author profile and blog series updates |
+| **X (Twitter)** | [@mostafa_hatem_x](https://x.com/mostafa_hatem_x) | Daily learning updates, quick insights, threads, and reflections |
 
 ---
 
@@ -33,19 +33,19 @@ I believe the best way to truly master a technical concept is to **explain it in
 
 This professional certificate consists of **11 courses**. Each course has (or will have) its own dedicated folder in this repository as I progress through the curriculum.
 
-|   #    | Course Title                                                                                                                                                           | Folder                                                                                  | Status         |
-| :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :------------- |
-| **01** | [Introduction to Software Engineering](https://www.coursera.org/learn/introduction-to-software-engineering/home/welcome)                                               | [`01-introduction-to-software-engineering`](./01-introduction-to-software-engineering/) | 🟡 In Progress |
-| **02** | [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github/home/welcome)                                                 | `02-getting-started-with-git-and-github`                                                | ⏳ Upcoming    |
-| **03** | [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting/home/welcome) | `03-linux-commands-and-shell-scripting`                                                 | ⏳ Upcoming    |
-| **04** | [Python for Data Science & AI: Hands-On Development](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome)                                   | `04-python-for-data-science-and-ai`                                                     | ⏳ Upcoming    |
-| **05** | [Build & Deploy AI Applications with Python & Flask](https://www.coursera.org/learn/python-project-for-ai-application-development/home/welcome)                        | `05-python-and-flask-ai-applications`                                                   | ⏳ Upcoming    |
-| **06** | [Django Application Development with SQL and Databases](https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django/home/welcome)             | `06-django-sql-and-databases`                                                           | ⏳ Upcoming    |
-| **07** | [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/home/welcome)                 | `07-containers-docker-kubernetes-openshift`                                             | ⏳ Not Started |
-| **08** | [Application Development using Microservices and Serverless](https://www.coursera.org/learn/applications-development-microservices-serverless-openshift/home/welcome)  | `08-microservices-and-serverless`                                                       | ⏳ Not Started |
-| **09** | [Application Security for Developers and DevOps Professionals](https://www.coursera.org/learn/application-security-for-developers-devops/home/welcome)                 | `09-application-security`                                                               | ⏳ Not Started |
-| **10** | [Monitoring and Observability for Development and DevOps](https://www.coursera.org/learn/monitoring-and-observability-for-development-and-devops/home/welcome)         | `10-monitoring-and-observability`                                                       | ⏳ Not Started |
-| **11** | [Back-end Application Development Capstone Project](https://www.coursera.org/learn/backend-development-capstone-project/home/welcome)                                  | `11-backend-capstone-project`                                                           | ⏳ Not Started |
+| # | Course Title | Folder | Status |
+| :-: | :--- | :--- | :--- |
+| **01** | [Introduction to Software Engineering](https://www.coursera.org/learn/introduction-to-software-engineering/home/welcome) | [`01-introduction-to-software-engineering`](./01-introduction-to-software-engineering/) | 🟡 In Progress |
+| **02** | [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github/home/welcome) | `02-getting-started-with-git-and-github` | ⏳ Upcoming |
+| **03** | [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting/home/welcome) | `03-linux-commands-and-shell-scripting` | ⏳ Upcoming |
+| **04** | [Python for Data Science & AI: Hands-On Development](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome) | `04-python-for-data-science-and-ai` | ⏳ Upcoming |
+| **05** | [Build & Deploy AI Applications with Python & Flask](https://www.coursera.org/learn/python-project-for-ai-application-development/home/welcome) | `05-python-and-flask-ai-applications` | ⏳ Upcoming |
+| **06** | [Django Application Development with SQL and Databases](https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django/home/welcome) | `06-django-sql-and-databases` | ⏳ Upcoming |
+| **07** | [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/home/welcome) | `07-containers-docker-kubernetes-openshift` | ⏳ Not Started |
+| **08** | [Application Development using Microservices and Serverless](https://www.coursera.org/learn/applications-development-microservices-serverless-openshift/home/welcome) | `08-microservices-and-serverless` | ⏳ Not Started |
+| **09** | [Application Security for Developers and DevOps Professionals](https://www.coursera.org/learn/application-security-for-developers-devops/home/welcome) | `09-application-security` | ⏳ Not Started |
+| **10** | [Monitoring and Observability for Development and DevOps](https://www.coursera.org/learn/monitoring-and-observability-for-development-and-devops/home/welcome) | `10-monitoring-and-observability` | ⏳ Not Started |
+| **11** | [Back-end Application Development Capstone Project](https://www.coursera.org/learn/backend-development-capstone-project/home/welcome) | `11-backend-capstone-project` | ⏳ Not Started |
 
 ---
 
@@ -66,12 +66,13 @@ backend-development-journey/
 │   │   ├── 07-software-testing.md
 │   │   ├── 08-software-documentation.md
 │   │   └── 09-software-roles.md
-│   ├── 02-introduction to-software-engineering/
+│   ├── 02-module-introduction to-software-engineering/
 │   │   ├── 01-overview-of-web-and-cloud-development.md
 │   │   ├── 02-learning-frontend-development.md
 │   │   ├── 03-learning-backend-development.md
 │   │   ├── 04-teamwork-and-squads-in-software-engineering.md
-│   │   └── 05-pair-programming.md
+│   │   ├── 05-pair-programming.md
+│   │   └── 06-essential-tools-for-application-development-and-deployment.md
 │   └── README.md
 │
 ├── (02 to 11 course folders will be added as each course begins...)
@@ -81,7 +82,6 @@ backend-development-journey/
 ### Course 01: Introduction to Software Engineering — Modules & Lessons
 
 #### Module 01: The Software Development Lifecycle
-
 - [01 - What Is Software Engineering? Understanding the Foundations of Building Software](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/01-what-is-software-engineering.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/what-is-software-engineering-my-first-step-into-backend-development)
 - [02 - Software Development Life Cycle (SDLC)](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/02-sdlc.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/understanding-the-software-development-life-cycle-sdlc-a-beginner-friendly-guide)
 - [03 - Building Quality Software](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/03-building-quality-software.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/building-quality-software-what-makes-software-truly-good)
@@ -93,12 +93,12 @@ backend-development-journey/
 - [09 - Common Roles in Software Engineering Projects: Who Does What?](./01-introduction-to-software-engineering/01-module-the-software-development-lifecycle/09-software-roles.md)
 
 #### Module 02: Introduction to Web and Cloud Development
-
-- [01 - Overview of Web and Cloud Development: Understanding How the Web Works](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/01-overview-of-web-and-cloud-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/overview-of-web-and-cloud-development)
-- [02 - Learning Front-End Development: HTML, CSS, JavaScript, and Modern Frameworks](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/02-learning-frontend-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/learning-front-end-development-html-css-javascript-and-modern-frameworks)
-- [03 - Understanding Back-End Development: What Happens Behind Every Web Application](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/03-learning-backend-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/understanding-back-end-development-what-happens-behind-every-web-application)
-- [04 - Teamwork and Squads in Software Engineering](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/04-teamwork-and-squads-in-software-engineering.md)
-- [05 - Pair Programming Explained: How Two Developers Can Build Better Software Together](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/05-pair-programming.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/pair-programming-explained-how-two-developers-can-build-better-software-together)
+- [01 - Overview of Web and Cloud Development: Understanding How the Web Works](./01-introduction-to-software-engineering/02-module-introduction%20to-software-engineering/01-overview-of-web-and-cloud-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/overview-of-web-and-cloud-development)
+- [02 - Learning Front-End Development: HTML, CSS, JavaScript, and Modern Frameworks](./01-introduction-to-software-engineering/02-module-introduction%20to-software-engineering/02-learning-frontend-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/learning-front-end-development-html-css-javascript-and-modern-frameworks)
+- [03 - Understanding Back-End Development: What Happens Behind Every Web Application](./01-introduction-to-software-engineering/02-module-introduction%20to-software-engineering/03-learning-backend-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/understanding-back-end-development-what-happens-behind-every-web-application)
+- [04 - Teamwork and Squads in Software Engineering](./01-introduction-to-software-engineering/02-module-introduction%20to-software-engineering/04-teamwork-and-squads-in-software-engineering.md)
+- [05 - Pair Programming Explained: How Two Developers Can Build Better Software Together](./01-introduction-to-software-engineering/02-module-introduction%20to-software-engineering/05-pair-programming.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/pair-programming-explained-how-two-developers-can-build-better-software-together)
+- [06 - From Code to Deployment: Essential Tools Every Application Developer Should Understand](./01-introduction-to-software-engineering/02-module-introduction%20to-software-engineering/06-essential-tools-for-application-development-and-deployment.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/from-code-to-deployment-essential-tools-every-application-developer-should-understand)
 
 ---
 

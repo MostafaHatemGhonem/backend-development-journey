@@ -70,7 +70,8 @@ backend-development-journey/
 │   │   ├── 01-overview-of-web-and-cloud-development.md
 │   │   ├── 02-learning-frontend-development.md
 │   │   ├── 03-learning-backend-development.md
-│   │   └── 04-teamwork-and-squads-in-software-engineering.md
+│   │   ├── 04-teamwork-and-squads-in-software-engineering.md
+│   │   └── 05-pair-programing
 │   └── README.md
 │
 ├── (02 to 11 course folders will be added as each course begins...)
@@ -95,6 +96,7 @@ backend-development-journey/
 - [02 - Learning Front-End Development: HTML, CSS, JavaScript, and Modern Frameworks](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/02-learning-frontend-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/learning-front-end-development-html-css-javascript-and-modern-frameworks)
 - [03 - Understanding Back-End Development: What Happens Behind Every Web Application](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/03-learning-backend-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/understanding-back-end-development-what-happens-behind-every-web-application)
 - [04 - Teamwork and Squads in Software Engineering](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/04-teamwork-and-squads-in-software-engineering.md)
+- [05 - Pair Programming Explained: How Two Developers Can Build Better Software Together](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/05-pair-programing) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/pair-programming-explained-how-two-developers-can-build-better-software-together)
 
 ---
 

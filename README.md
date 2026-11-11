@@ -68,7 +68,9 @@ backend-development-journey/
 │   │   └── 09-software-roles.md
 │   ├── 02-introduction to-software-engineering/
 │   │   ├── 01-overview-of-web-and-cloud-development.md
-│   │   └── learning-frontend-development.md
+│   │   ├── 02-learning-frontend-development.md
+│   │   ├── 03-learning-backend-development.md
+│   │   └── 04-teamwork-and-squads-in-software-engineering.md
 │   └── README.md
 │
 ├── (02 to 11 course folders will be added as each course begins...)
@@ -90,7 +92,9 @@ backend-development-journey/
 
 #### Module 02: Introduction to Web and Cloud Development
 - [01 - Overview of Web and Cloud Development: Understanding How the Web Works](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/01-overview-of-web-and-cloud-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/overview-of-web-and-cloud-development)
-- [02 - Learning Front-End Development: HTML, CSS, JavaScript, and Modern Frameworks](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/learning-frontend-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/learning-front-end-development-html-css-javascript-and-modern-frameworks)
+- [02 - Learning Front-End Development: HTML, CSS, JavaScript, and Modern Frameworks](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/02-learning-frontend-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/learning-front-end-development-html-css-javascript-and-modern-frameworks)
+- [03 - Understanding Back-End Development: What Happens Behind Every Web Application](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/03-learning-backend-development.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/understanding-back-end-development-what-happens-behind-every-web-application)
+- [04 - Teamwork and Squads in Software Engineering](./01-introduction-to-software-engineering/02-introduction%20to-software-engineering/04-teamwork-and-squads-in-software-engineering.md)
 
 ---
 

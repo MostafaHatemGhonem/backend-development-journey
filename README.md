@@ -71,7 +71,7 @@ backend-development-journey/
 │   │   ├── 02-learning-frontend-development.md
 │   │   ├── 03-learning-backend-development.md
 │   │   ├── 04-teamwork-and-squads-in-software-engineering.md
-│   │   └── 05-pair-programing
+│   │   └── 05-pair-programming.md
 │   └── README.md
 │
 ├── (02 to 11 course folders will be added as each course begins...)

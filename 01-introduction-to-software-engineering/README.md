@@ -11,7 +11,7 @@ This folder contains my study notes, deep-dive explanations, and practical break
 ## 📂 Modules Overview
 
 - [`01-module-the-software-development-lifecycle/`](./01-module-the-software-development-lifecycle/): Software engineering foundations, SDLC phases, methodologies, requirements gathering, versioning, software testing, documentation, and engineering team roles.
-- [`02-module-introduction to-software-engineering/`](./02-module-introduction%20to-software-engineering/): Web and cloud development fundamentals, front-end vs back-end, HTML/CSS/JavaScript, server-side architecture, teamwork & squads, pair programming, development & deployment tooling (IDEs, CI/CD, containers), client-server model, cloud architecture, and modern deployment models.
+- [`02-module-introduction to-software-engineering/`](./02-module-introduction%20to-software-engineering/): Web and cloud development fundamentals, front-end vs back-end, HTML/CSS/JavaScript, server-side architecture, teamwork & squads, pair programming, development & deployment tooling (IDEs, CI/CD, containers), software stacks (LAMP, MEAN, MERN, Django/Python), client-server model, cloud architecture, and modern deployment models.
 
 ---
 
@@ -38,9 +38,10 @@ This folder contains my study notes, deep-dive explanations, and practical break
 | **01** | Overview of Web and Cloud Development: Understanding How the Web Works | [01-overview-of-web-and-cloud-development.md](./02-module-introduction%20to-software-engineering/01-overview-of-web-and-cloud-development.md) | [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/overview-of-web-and-cloud-development) |
 | **02** | Learning Front-End Development: HTML, CSS, JavaScript, and Modern Frameworks | [02-learning-frontend-development.md](./02-module-introduction%20to-software-engineering/02-learning-frontend-development.md) | [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/learning-front-end-development-html-css-javascript-and-modern-frameworks) |
 | **03** | Understanding Back-End Development: What Happens Behind Every Web Application | [03-learning-backend-development.md](./02-module-introduction%20to-software-engineering/03-learning-backend-development.md) | [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/understanding-back-end-development-what-happens-behind-every-web-application) |
-| **04** | Teamwork and Squads in Software Engineering | [04-teamwork-and-squads-in-software-engineering.md](./02-module-introduction%20to-software-engineering/04-teamwork-and-squads-in-software-engineering.md) | ⏳ In Progress |
+| **04** | Why Teamwork Matters in Software Engineering: Understanding Teams, Agile Squads, and Pair Programming | [04-teamwork-and-squads-in-software-engineering.md](./02-module-introduction%20to-software-engineering/04-teamwork-and-squads-in-software-engineering.md) | [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/why-teamwork-matters-in-software-engineering-understanding-teams-agile-squads-and-pair-programming) |
 | **05** | Pair Programming Explained: How Two Developers Can Build Better Software Together | [05-pair-programming.md](./02-module-introduction%20to-software-engineering/05-pair-programming.md) | [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/pair-programming-explained-how-two-developers-can-build-better-software-together) |
 | **06** | From Code to Deployment: Essential Tools Every Application Developer Should Understand | [06-essential-tools-for-application-development-and-deployment.md](./02-module-introduction%20to-software-engineering/06-essential-tools-for-application-development-and-deployment.md) | [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/from-code-to-deployment-essential-tools-every-application-developer-should-understand) |
+| **07** | Understanding Software Stacks: Components, Popular Examples, Advantages, and Challenges | [07-software-stack.md](./02-module-introduction%20to-software-engineering/07-software-stack.md) | [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/) |
 
 ---
 

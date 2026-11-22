@@ -75,7 +75,8 @@ backend-development-journey/
 │   │   ├── 06-essential-tools-for-application-development-and-deployment.md
 │   │   └── 07-software-stack.md
 │   ├── 03-basics-of-programming/
-│   │   └── 01-interpreted-and-compiled-programming.md
+│   │   ├── 01-interpreted-and-compiled-programming.md
+│   │   └── high-level-vs-low-level-programming-languages.md
 │   └── README.md
 │
 ├── (02 to 11 course folders will be added as each course begins...)
@@ -106,6 +107,7 @@ backend-development-journey/
 
 #### Module 03: Basics of Programming
 - [01 - Interpreted vs. Compiled Programming Languages: How Does Code Become Machine Instructions?](./01-introduction-to-software-engineering/03-basics-of-programming/01-interpreted-and-compiled-programming.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/interpreted-vs-compiled-programming-languages-how-does-code-become-machine-instructions)
+- [02 - High-Level vs. Low-Level Programming Languages: From Python and SQL to Assembly](./01-introduction-to-software-engineering/03-basics-of-programming/high-level-vs-low-level-programming-languages.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/high-level-vs-low-level-programming-languages-from-python-and-sql-to-assembly)
 
 ---
 

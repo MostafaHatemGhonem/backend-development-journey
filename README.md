@@ -76,7 +76,8 @@ backend-development-journey/
 │   │   └── 07-software-stack.md
 │   ├── 03-basics-of-programming/
 │   │   ├── 01-interpreted-and-compiled-programming.md
-│   │   └── high-level-vs-low-level-programming-languages.md
+│   │   ├── 02-high-level-vs-low-level-programming-languages.md
+│   │   └── 03-understanding-code-organization-methods.md
 │   └── README.md
 │
 ├── (02 to 11 course folders will be added as each course begins...)
@@ -107,7 +108,8 @@ backend-development-journey/
 
 #### Module 03: Basics of Programming
 - [01 - Interpreted vs. Compiled Programming Languages: How Does Code Become Machine Instructions?](./01-introduction-to-software-engineering/03-basics-of-programming/01-interpreted-and-compiled-programming.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/interpreted-vs-compiled-programming-languages-how-does-code-become-machine-instructions)
-- [02 - High-Level vs. Low-Level Programming Languages: From Python and SQL to Assembly](./01-introduction-to-software-engineering/03-basics-of-programming/high-level-vs-low-level-programming-languages.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/high-level-vs-low-level-programming-languages-from-python-and-sql-to-assembly)
+- [02 - High-Level vs. Low-Level Programming Languages: From Python and SQL to Assembly](./01-introduction-to-software-engineering/03-basics-of-programming/02-high-level-vs-low-level-programming-languages.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/high-level-vs-low-level-programming-languages-from-python-and-sql-to-assembly)
+- [03 - Understanding Code Organization Methods: How Flowcharts and Pseudocode Help Developers Write Better Software](./01-introduction-to-software-engineering/03-basics-of-programming/03-understanding-code-organization-methods.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/understanding-code-organization-methods-how-flowcharts-and-pseudocode-help-developers-write-better-software)
 
 ---
 

@@ -74,6 +74,8 @@ backend-development-journey/
 │   │   ├── 05-pair-programming.md
 │   │   ├── 06-essential-tools-for-application-development-and-deployment.md
 │   │   └── 07-software-stack.md
+│   ├── 03-basics-of-programming/
+│   │   └── 01-interpreted-and-compiled-programming.md
 │   └── README.md
 │
 ├── (02 to 11 course folders will be added as each course begins...)
@@ -100,7 +102,10 @@ backend-development-journey/
 - [04 - Why Teamwork Matters in Software Engineering: Understanding Teams, Agile Squads, and Pair Programming](./01-introduction-to-software-engineering/02-module-introduction%20to-software-engineering/04-teamwork-and-squads-in-software-engineering.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/why-teamwork-matters-in-software-engineering-understanding-teams-agile-squads-and-pair-programming)
 - [05 - Pair Programming Explained: How Two Developers Can Build Better Software Together](./01-introduction-to-software-engineering/02-module-introduction%20to-software-engineering/05-pair-programming.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/pair-programming-explained-how-two-developers-can-build-better-software-together)
 - [06 - From Code to Deployment: Essential Tools Every Application Developer Should Understand](./01-introduction-to-software-engineering/02-module-introduction%20to-software-engineering/06-essential-tools-for-application-development-and-deployment.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/from-code-to-deployment-essential-tools-every-application-developer-should-understand)
-- [07 - Understanding Software Stacks: Components, Popular Examples, Advantages, and Challenges](./01-introduction-to-software-engineering/02-module-introduction%20to-software-engineering/07-software-stack.md)
+- [07 - Software Stacks Explained: How Different Technologies Work Together to Build Applications](./01-introduction-to-software-engineering/02-module-introduction%20to-software-engineering/07-software-stack.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/software-stacks-explained-how-different-technologies-work-together-to-build-applications)
+
+#### Module 03: Basics of Programming
+- [01 - Interpreted vs. Compiled Programming Languages: How Does Code Become Machine Instructions?](./01-introduction-to-software-engineering/03-basics-of-programming/01-interpreted-and-compiled-programming.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/interpreted-vs-compiled-programming-languages-how-does-code-become-machine-instructions)
 
 ---
 

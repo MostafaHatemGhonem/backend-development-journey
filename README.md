@@ -78,7 +78,8 @@ backend-development-journey/
 │   │   ├── 01-interpreted-and-compiled-programming.md
 │   │   ├── 02-high-level-vs-low-level-programming-languages.md
 │   │   ├── 03-understanding-code-organization-methods.md
-│   │   └── 04-branching-and-looping-programming-logic.md.md
+│   │   ├── 04-branching-and-looping-programming-logic.md.md
+│   │   └── 05-introduction-to-programming-concepts.md
 │   └── README.md
 │
 ├── (02 to 11 course folders will be added as each course begins...)
@@ -112,6 +113,7 @@ backend-development-journey/
 - [02 - High-Level vs. Low-Level Programming Languages: From Python and SQL to Assembly](./01-introduction-to-software-engineering/03-basics-of-programming/02-high-level-vs-low-level-programming-languages.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/high-level-vs-low-level-programming-languages-from-python-and-sql-to-assembly)
 - [03 - Understanding Code Organization Methods: How Flowcharts and Pseudocode Help Developers Write Better Software](./01-introduction-to-software-engineering/03-basics-of-programming/03-understanding-code-organization-methods.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/understanding-code-organization-methods-how-flowcharts-and-pseudocode-help-developers-write-better-software)
 - [04 - How Programs Make Decisions and Repeat Tasks: Understanding Branching and Looping](./01-introduction-to-software-engineering/03-basics-of-programming/04-branching-and-looping-programming-logic.md.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/how-programs-make-decisions-and-repeat-tasks-understanding-branching-and-looping)
+- [05 - Introduction to Programming Concepts: Understanding Variables, Functions, Data Structures, and OOP](./01-introduction-to-software-engineering/03-basics-of-programming/05-introduction-to-programming-concepts.md) — [Read on Hashnode](https://mostafa-hatem-backend.hashnode.dev/introduction-to-programming-concepts-understanding-variables-functions-data-structures-and-oop)
 
 ---
 
